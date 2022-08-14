@@ -1,0 +1,9 @@
+feedparser
+json
+datetime
+dateparser
+nltk
+os
+tweepy
+Pillow
+configparser

@@ -1,0 +1,3 @@
+https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+https://techxplore.com/rss-feed/machine-learning-ai-news/
+https://www.wired.com/feed/tag/ai/latest/rss
